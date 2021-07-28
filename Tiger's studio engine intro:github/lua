@@ -1,0 +1,2 @@
+print("Hello world!")
+local GUI = Instance.new("Frame",StarterGui)
