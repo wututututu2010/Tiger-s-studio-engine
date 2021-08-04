@@ -20,6 +20,6 @@ by **[Tiger's studio](https://web.roblox.com/groups/7917459/Tigers-Studio#!/abou
 ## Social Medias
 ![Icon](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png) Youtube - **[WutuPlays](https://www.youtube.com/channel/UCBGEzWE5Gx9ouW_QDupFixA)**
  
-![Icon](https://blog.twitter.com/developer/en_us/a/2014/open-sourcing-twitter-emoji-for-everyone#)Twitter - **[Wutu](https://twitter.com/Wutu42718573)**
+![Icon](https://www.healthynewbornnetwork.org/hnn-content/uploads/twitter-logo-transparent-small.png)Twitter - **[Wutu](https://twitter.com/Wutu42718573)**
 
-Discord server - **[Tiger's studio discord server](https://t.co/LQfvwhKbsk?amp=1)**
+![Icon](https://img.icons8.com/color/2x/discord-new-logo.png)Discord server - **[Tiger's studio discord server](https://t.co/LQfvwhKbsk?amp=1)**
