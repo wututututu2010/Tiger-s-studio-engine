@@ -6,8 +6,10 @@ Built by Tiger
 
 HOW TO OPEN THE FILE:
 Go to terminal
+Type cd ./Downloads
+Type cd ./Tiger-s-studio-engine-main
+Type cd ./Projects
 Type cd ./run
-
 Type Python totallynotvirus.py PythonLauncher
 
 OR
