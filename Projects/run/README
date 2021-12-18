@@ -7,7 +7,6 @@ Built by Tiger
 HOW TO OPEN THE FILE:
 Move the file into /User/yourusername directory
 Go to terminal
-Type cd ./Downloads
 Type cd ./Tiger-s-studio-engine-main
 Type cd ./Projects
 Type cd ./run
